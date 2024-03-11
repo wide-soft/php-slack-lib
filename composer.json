@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Maknz\\Slack\\": "src/"
+            "wide-soft\\php-slack-lib\\": "src/"
         }
     },
     "minimum-stability": "stable"
